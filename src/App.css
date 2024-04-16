@@ -146,6 +146,10 @@
   .App-header h1 {
     font-size: 1.2em; /* Ukuran font yang lebih besar untuk layar kecil */
   }
+
+  .Movie-popular h1 {
+    text-align: center; /* Membuat teks berada di tengah */
+  }
 }
 
 .Movie-popular h1 {
