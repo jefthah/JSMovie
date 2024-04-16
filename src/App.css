@@ -148,3 +148,7 @@
   }
 }
 
+.Movie-popular h1 {
+  text-align: center;
+  font-size: 4em; /* Atur ukuran font sesuai keinginan Anda */
+}
